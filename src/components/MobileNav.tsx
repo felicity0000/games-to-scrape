@@ -17,7 +17,7 @@ const MobileNav = () => {
       </SheetTrigger>
       <SheetContent className="space-y-3">
         <SheetTitle>
-          <span> Welcome to MernEats.com!</span>
+          <span>This is a scraping website!</span>
         </SheetTitle>
         <Separator />
         <SheetDescription className="flex flex-col gap-4">

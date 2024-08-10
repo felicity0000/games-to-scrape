@@ -1,3 +1,4 @@
+import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import React from "react"
 
@@ -9,6 +10,7 @@ const Layout = ({children}:Props) => {
     <div>
         <Header/>
         <div>{children}</div>
+        <Footer/>
     </div>
   )
 }

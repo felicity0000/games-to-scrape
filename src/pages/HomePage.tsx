@@ -1,6 +1,10 @@
+import Games from "@/components/Games"
+
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <div>
+      <Games/>
+    </div>
   )
 }
 
